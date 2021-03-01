@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><config>
+  <client>
+    <startup-window-size>
+      <width>800.0</width>
+      <height>480.0</height>
+    </startup-window-size>
+    <current-theme-full-name>com.stream_pi.defaulthighcontrast</current-theme-full-name>
+    <icons-path>data/Icons/</icons-path>
+    <themes-path>data/Themes/</themes-path>
+    <profiles-path>data/Profiles/</profiles-path>
+    <nickname>rasp4</nickname>
+    <startup-profile>6fe15d84-8ac7-4b72-88f6-e497335fea7e</startup-profile>
+  </client>
+
+  <comms-server>
+    <hostname-ip>192.168.5.249</hostname-ip>
+    <port>2004</port>
+  </comms-server>
+
+  <others>
+    <start-on-boot>false</start-on-boot>
+    <first-time-use>false</first-time-use>
+    <show-cursor>true</show-cursor>
+    <fullscreen>false</fullscreen>
+  </others>
+</config>

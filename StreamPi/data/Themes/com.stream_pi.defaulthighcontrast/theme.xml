@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<configuration>
+    <theme-platform-version>1.0.0</theme-platform-version>
+    
+    <info>
+        <short-name>Default High Contrast (Dark)</short-name>
+        <author>rnayabed</author>
+        <version>1.0.0</version>
+    </info>
+    
+    <theme>
+        <stylesheets>
+            <stylesheet>res/style.css</stylesheet>
+        </stylesheets>
+    </theme>
+</configuration>

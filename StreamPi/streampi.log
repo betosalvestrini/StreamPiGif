@@ -1,0 +1,12 @@
+[JavaFX Application Thread] :: com.stream_pi.client.window.Base@registerThemes -> :INFO = Loading themes ...
+[JavaFX Application Thread] :: com.stream_pi.util.xmlconfighelper.XMLConfigHelper@getProperty -> :WARNING = CANNOT get property info.website!
+[JavaFX Application Thread] :: com.stream_pi.themeapi.Themes@loadThemes -> :INFO = Added com.StreamPi.DefaultDark to themes
+[JavaFX Application Thread] :: com.stream_pi.util.xmlconfighelper.XMLConfigHelper@getProperty -> :WARNING = CANNOT get property info.website!
+[JavaFX Application Thread] :: com.stream_pi.themeapi.Themes@loadThemes -> :INFO = Added com.StreamPi.DefaultLight to themes
+[JavaFX Application Thread] :: com.stream_pi.util.xmlconfighelper.XMLConfigHelper@getProperty -> :WARNING = CANNOT get property info.website!
+[JavaFX Application Thread] :: com.stream_pi.themeapi.Themes@loadThemes -> :INFO = Added com.StreamPi.DarkHighContrast to themes
+[JavaFX Application Thread] :: com.stream_pi.client.window.Base@registerThemes -> :INFO = ... Done!
+[JavaFX Application Thread] :: com.stream_pi.client.window.Base@applyDefaultTheme -> :INFO = Applying default theme ...
+[JavaFX Application Thread] :: com.stream_pi.client.window.Base@applyTheme -> :INFO = Applying theme 'com.StreamPi.DefaultLight' ...
+[JavaFX Application Thread] :: com.stream_pi.client.window.Base@applyTheme -> :INFO = ... Done!
+[JavaFX Application Thread] :: com.stream_pi.client.window.Base@applyDefaultTheme -> :INFO = ... Done!
